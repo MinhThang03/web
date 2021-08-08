@@ -85,6 +85,7 @@
 
 .header__icon-bars-img {
     width: 25px;
+    cursor: pointer;
 }
 
 
@@ -478,6 +479,7 @@
     height: 28px;
     border-radius: 20px;
     background-color: #fff;
+    line-height: 2rem;
 }
 
 .place__overlay-content-btn-link {
